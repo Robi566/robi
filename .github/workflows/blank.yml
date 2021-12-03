@@ -1,7 +1,5 @@
 name: FKRDP
 
-name: FKRDP
-
 on: workflow_dispatch
 
 jobs:
