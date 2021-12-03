@@ -1,6 +1,6 @@
 name: FKRDP
 
-name: RDP_COFFIN
+name: FKRDP
 
 on: workflow_dispatch
 
